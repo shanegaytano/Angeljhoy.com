@@ -1,0 +1,14 @@
+body{
+    background-image: url("images/pink-hearts.gif");
+    background-color: pink;
+    background-position: center;
+    background-repeat: repeat;
+    font-family: "Cosmic sans:ms", Arial;
+    color: red;
+    font-size: 14pt;
+}
+.ANGEL{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
